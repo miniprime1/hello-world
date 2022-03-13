@@ -1,8 +1,10 @@
 # "Hello, world!" program
+_Hello, world!_
 
 ## Overview
  "Hello, world!" program prints "Hello, world!" on console.
  This program is wriiten by Kyumin Nam.
+ 
 
 ## Features
  - Print "Hello, world!".
