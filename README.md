@@ -30,12 +30,13 @@ Hi, Kyumin!
 ## Options
 
 "Hello, world!" program supports the following options:
- [1] -t <Text>, --text=<Text>: Other output text. Default value is 'Hello, world!'. The output will be like '<Text>'.
- [2] -g <Text>, --greeting=<Text>: Other greeting text. Default value is 'Hello'. The output will be like '<Greeting>, <Name>!'.
- [3] -n <Text>, --name=<Text>: The name of someone to greet. The default value is 'world'. The output will be like '<Greeting>, <Name>!'.
- [4] -r <Number>, --repeat=<Numver>: The number of times to repeat the greeting. The default value is 1.
- [5] -v, --version: Print the version number and licensing information of Hello on standard output and then exit successfully.
- [6] -h, --help: Print an informative help message on standard output and exit successfully.
+
+ - `-t <Text>`, `--text=<Text>`: Other output text. Default value is 'Hello, world!'. The output will be like '<Text>'.
+ - `-g <Text>`, `--greeting=<Text>`: Other greeting text. Default value is 'Hello'. The output will be like '<Greeting>, <Name>!'.
+ - `-n <Text>`, `--name=<Text>`: The name of someone to greet. The default value is 'world'. The output will be like '<Greeting>, <Name>!'.
+ - `-r <Number>`, `--repeat=<Numver>`: The number of times to repeat the greeting. The default value is 1.
+ - `-v`, `--version`: Print the version number and licensing information of Hello on standard output and then exit successfully.
+ - `-h`, `--help`: Print an informative help message on standard output and exit successfully.
 
 With no options, "Hello, world!" program prints "Hello, world!".
 
