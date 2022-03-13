@@ -13,13 +13,19 @@
 Here are some examples of running "Hello, world!" program
 
 This is the output of the command `hello-world.exe`:
-```Hello, world!```
+```
+Hello, world!
+```
 
 This is the output of the command `hello-world.exe --text="Hi, world"`:
-```Hi, world```
+```
+Hi, world
+```
 
 This is the output of the command `hello-world.exe --greeting="Hi" --name="Kyumin"`:
-```Hi, Kyumin!```
+```
+Hi, Kyumin!
+```
 
 ## Options
 
