@@ -52,4 +52,4 @@ With no options, "Hello, world!" program prints "Hello, world!".
  3. Build solution.
 
 ## License
- - `Source Code` [MIT License](license.txt)
+ - `Source Code` [MIT License](LICENSE)
