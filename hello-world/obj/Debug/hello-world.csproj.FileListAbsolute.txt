@@ -1,0 +1,8 @@
+C:\Users\minip\source\repos\hello-world\hello-world\bin\Debug\hello-world.exe.config
+C:\Users\minip\source\repos\hello-world\hello-world\bin\Debug\hello-world.exe
+C:\Users\minip\source\repos\hello-world\hello-world\bin\Debug\hello-world.pdb
+C:\Users\minip\source\repos\hello-world\hello-world\bin\Debug\NDesk.Options.dll
+C:\Users\minip\source\repos\hello-world\hello-world\obj\Debug\hello-world.csproj.CoreCompileInputs.cache
+C:\Users\minip\source\repos\hello-world\hello-world\obj\Debug\hello-world.csproj.CopyComplete
+C:\Users\minip\source\repos\hello-world\hello-world\obj\Debug\hello-world.exe
+C:\Users\minip\source\repos\hello-world\hello-world\obj\Debug\hello-world.pdb
